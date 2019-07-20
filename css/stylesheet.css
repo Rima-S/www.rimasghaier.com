@@ -73,8 +73,8 @@ a, a:hover, a:visited, a:link, a:active
 
 .bio {
   margin: 0 auto;
-  width: 70%;
-  text-align: center;
+  width: 50%;
+  text-align: left;
 }
 
 .btn-circle.btn-lg {
