@@ -73,7 +73,7 @@ a, a:hover, a:visited, a:link, a:active
 
 .bio {
   margin: 0 auto;
-  width: 50%;
+  width: 60%;
   text-align: center;
 }
 
@@ -84,10 +84,4 @@ a, a:hover, a:visited, a:link, a:active
   font-size: 18px;
   line-height: 1.33;
   border-radius: 25px;
-}
-
-.tag {
-  color: #999;
-  padding-left: 1em;
-  padding-right: 1em
 }
