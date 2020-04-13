@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/cyberflaneuse
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.rimasghaier.com
+  * I am cyberflaneuse (https://keybase.io/cyberflaneuse) on keybase.
+  * I have a public key ASCMyqRFc0WPARYGWA8XemHKwvWP1X_eMNnautrBUJKBvAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01208ccaa44573458f011606580f177a61cac2f58fd57fde30d9dabadac1509281bc0a",
+      "host": "keybase.io",
+      "kid": "01208ccaa44573458f011606580f177a61cac2f58fd57fde30d9dabadac1509281bc0a",
+      "uid": "3855a7ab47f8508cd3ca31a76b349119",
+      "username": "cyberflaneuse"
+    },
+    "merkle_root": {
+      "ctime": 1586786948,
+      "hash": "63683fa1f6d1b9cd997fe84a75fb1e62a8e2018532d90ec789b24fa67e8ee23855d89330ddb8882f2a234787bac1124ab60478eb389f390cff3c7d5de02ca3bc",
+      "hash_meta": "64a6813bd0ffb8e06a622df79a13741eb1d5060ae2a48ccc3dc5e3e1083e0a9d",
+      "seqno": 15903204
+    },
+    "service": {
+      "entropy": "smtDORn/UR/CpCyREKklokn/",
+      "hostname": "www.rimasghaier.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.3.1"
+  },
+  "ctime": 1586786979,
+  "expire_in": 504576000,
+  "prev": "70e6702648019c483c85a4998a941b938fb12c1a273a1fe9ba33cea7a087b6ff",
+  "seqno": 6,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgjMqkRXNFjwEWBlgPF3physL1j9V/3jDZ2rrawVCSgbwKp3BheWxvYWTESpcCBsQgcOZwJkgBnEg8haSZipQbk4+xLBonOh/pujPOp6CHtv/EIEKTsxq4NG4gLykWXmF+sgtIRFMRsdwXUSRMA0bb9IR8AgHCo3NpZ8RAVqDqB33uZ3sAWA7+VGGOlj6dT8NU0oQy/cxY3UvlwF9KTglVvjTaMy6qD6pUGvlXb6c3pXRFVbJUHn91nW6AC6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIGKxVdDG4yyIUZgNp+8Fl6b6wDswOUrldMJpi7rFHanfo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/cyberflaneuse
+
+==================================================================
